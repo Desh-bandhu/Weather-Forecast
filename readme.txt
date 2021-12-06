@@ -57,6 +57,17 @@ setup package.json---start node src/app.js
 
 change listen or localhost url---process.env
 
+check with git status and add . and commmit to save all version control
+
+then
+
+git push
+to save all files in github
+
+git remote---check endpoints
+
+git push heroku master---push to herku
+
 
 
 
